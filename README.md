@@ -102,7 +102,6 @@ sudo rmmod monitor
 
 👉 Multiple containers running under a single supervisor
 
-📸 **Paste Screenshot Here**
 
 <img width="734" height="101" alt="osjone" src="https://github.com/user-attachments/assets/db546ac2-7ec8-47ee-9481-5741ff7386a2" />
 
@@ -112,16 +111,13 @@ sudo rmmod monitor
 
 👉 Output of `engine ps`
 
-📸 **Paste Screenshot Here**
-
  <img width="617" height="97" alt="osj2" src="https://github.com/user-attachments/assets/d179ffa0-30a0-41f3-96e3-11b572c2f29c" />
+ 
 ---
 
 ## 3. Logging system
 
 👉 Output from `echo one`, `echo two`
-
-📸 **Paste Screenshot Here**
 
 <img width="938" height="163" alt="osj3" src="https://github.com/user-attachments/assets/b13dcbf9-b560-412c-b6da-1b231689bdc7" />
 
